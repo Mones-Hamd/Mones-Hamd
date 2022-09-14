@@ -6,16 +6,16 @@
 
 
   <a href="https://github.com/Mones-Hamd/mongoApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mongoApp" width=50%>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mongoApp" width=45%>
   </a>
     <a href="https://github.com/Mones-Hamd/Sirra-App-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=Sirra-App-API" width=50%>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=Sirra-App-API" width=45%>
   </a>
     <a href="https://github.com/Mones-Hamd/GraphQL-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=GraphQL-project" width=50%>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=GraphQL-project" width=45%>
   </a>
     <a href="https://github.com/Mones-Hamd/mini-prjects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects" width=50%>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects" width=45%>
   </a>
   <a href="https://github.com/Mones-Hamd">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mones-hamd&layout=compact)">
