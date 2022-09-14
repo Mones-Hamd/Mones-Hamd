@@ -5,7 +5,7 @@
 <h3 align="start">A passionate Full-Satck developer</h3>
 
 <br><br>
-<span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></span>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></p>
 
 
 <br><br>
