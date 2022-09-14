@@ -2,7 +2,8 @@
 <img src="https://github.com/Mones-Hamd/Mones-Hamd/blob/main/web-development.jpeg" height=250px width=100%>
 <br><br>
 <h1 align="start">Hello , I'm Mones Hamd</h1>
-<h3 align="start">A passionate Full-Satck developer</h3>.  </br>
+<h3 align="start">A passionate Full-Satck developer</h3> 
+* * *
 
 
 - 🌱 I’m currently learning **Hack Your Future**
