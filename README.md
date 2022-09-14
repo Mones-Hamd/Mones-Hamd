@@ -1,21 +1,21 @@
 
 <img src="https://github.com/Mones-Hamd/Mones-Hamd/blob/main/web-development.jpeg" height=250px width=100%>
 <br><br>
-<h1 align="start">Hi 👋, I'm Mones Hamd</h1>
+<h1 align="start">Hello , I'm Mones Hamd</h1>
 <h3 align="start">A passionate Full-Satck developer</h3>
 
 
   <a href="https://github.com/Mones-Hamd/mongoApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mongoApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mongoApp" width=50%>
   </a>
     <a href="https://github.com/Mones-Hamd/Sirra-App-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=Sirra-App-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=Sirra-App-API" width=50%>
   </a>
     <a href="https://github.com/Mones-Hamd/GraphQL-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=GraphQL-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=GraphQL-project" width=50%>
   </a>
     <a href="https://github.com/Mones-Hamd/mini-prjects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects" width=50%>
   </a>
   <a href="https://github.com/Mones-Hamd">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mones-hamd&layout=compact)">
