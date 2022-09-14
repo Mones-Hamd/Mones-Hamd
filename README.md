@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Hack Your Future**
 
-- 💬 Ask me about **JavaScript, Python, SQL, NoSql, NodeJs,**
+- 💬 Ask me about **JavaScript, Python, SQL, NoSql, NodeJs, Express**
 
 - 📫 How to reach me **mones.m.azzam91@gmail.com**
 <h1 align="start"> I am workin on</h1>
