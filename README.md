@@ -1,9 +1,8 @@
-  <h1> Hello there 👋</h1>
-  
-  <a href="https://github.com/Mones-Hamd">
-  <img src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&theme=radical)">
-  </a>
-  
+
+
+<h1 align="center">Hi 👋, I'm Mones Hamd</h1>
+<h3 align="center">A passionate Full-Satck developer</h3>
+
   <a href="https://github.com/Mones-Hamd/HYF-Module-HTMLCSSGIT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=HYF-Module-HTMLCSSGIT">
   </a>
@@ -19,13 +18,6 @@
   <a href="https://github.com/Mones-Hamd">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mones-hamd&layout=compact)">
   </a>
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Mones Hamd</h1>
-<h3 align="center">A passionate Full-Satck developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mones-hamd&label=Profile%20views&color=0e75b6&style=flat" alt="mones-hamd" /> </p>
 
