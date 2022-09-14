@@ -1,7 +1,8 @@
 
 <img src="https://github.com/Mones-Hamd/Mones-Hamd/blob/main/web-development.jpeg" height=250px width=100%>
-<h1 align="center">Hi 👋, I'm Mones Hamd</h1>
-<h3 align="center">A passionate Full-Satck developer</h3>
+<br><br>
+<h1 align="start">Hi 👋, I'm Mones Hamd</h1>
+<h3 align="start">A passionate Full-Satck developer</h3>
 
 
   <a href="https://github.com/Mones-Hamd/mongoApp">
