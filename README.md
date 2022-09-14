@@ -4,12 +4,6 @@
 <h1 align="start">Hello , I'm Mones Hamd</h1>
 <h3 align="start">A passionate Full-Satck developer</h3>
 
-<br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></p>
-<br><br>
-
-<br><br>
-
   <a href="https://github.com/Mones-Hamd/mongoApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mongoApp" width=45%>
   </a>
@@ -22,6 +16,10 @@
     <a href="https://github.com/Mones-Hamd/mini-prjects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects" width=45%>
   </a>
+  <br><br>
+  <br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></p>
+<br><br>
   <br><br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mones-hamd&show_icons=true&locale=en&layout=compact" alt="mones-hamd" / width=45%></p>
   <a href="https://github.com/Mones-Hamd">
