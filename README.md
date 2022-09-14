@@ -6,14 +6,14 @@
   <a href="https://github.com/Mones-Hamd/mongoApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mongoApp">
   </a>
-    <a href="https://github.com/Mones-Hamd/Homework-class38">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=Homework-class38">
+    <a href="https://github.com/Mones-Hamd/Sirra-App-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=Sirra-App-API">
   </a>
-    <a href="https://github.com/Mones-Hamd/codeacademy-week2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=codeacademy-week2">
+    <a href="https://github.com/Mones-Hamd/GraphQL-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=GraphQL-project">
   </a>
-    <a href="https://github.com/Mones-Hamd/prepEx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=prepEx">
+    <a href="https://github.com/Mones-Hamd/mini-prjects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects">
   </a>
   <a href="https://github.com/Mones-Hamd">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mones-hamd&layout=compact)">
