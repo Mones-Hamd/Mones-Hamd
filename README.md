@@ -7,7 +7,7 @@
 <br><br>
 <span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></span>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mones-hamd&show_icons=true&locale=en&layout=compact" alt="mones-hamd" / width=45%></p>
+
 <br><br>
 
   <a href="https://github.com/Mones-Hamd/mongoApp">
@@ -22,6 +22,8 @@
     <a href="https://github.com/Mones-Hamd/mini-prjects">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects" width=45%>
   </a>
+  <br><br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mones-hamd&show_icons=true&locale=en&layout=compact" alt="mones-hamd" / width=45%></p>
   <a href="https://github.com/Mones-Hamd">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mones-hamd&layout=compact)">
   </a>
