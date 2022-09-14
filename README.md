@@ -3,7 +3,7 @@
 <br><br>
 <h1 align="start">Hello , I'm Mones Hamd</h1>
 <h3 align="start">A passionate Full-Satck developer</h3> 
-* * *
+<hr   />
 
 
 - 🌱 I’m currently learning **Hack Your Future**
