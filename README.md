@@ -5,9 +5,9 @@
 <h3 align="start">A passionate Full-Satck developer</h3>
 
 <br><br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=47%/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mones-hamd&show_icons=true&locale=en&layout=compact" alt="mones-hamd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mones-hamd&show_icons=true&locale=en&layout=compact" alt="mones-hamd" / width=45%></p>
 <br><br>
 
   <a href="https://github.com/Mones-Hamd/mongoApp">
