@@ -5,7 +5,7 @@
 <hr   />
 <h3 align="start">A passionate Full-Satck developer</h3> 
 
-   passionate about new technologies, search a lot to keep my knowledge up-to-date and keep up with the job market  
+   passionate about new technologies, search a lot to keep my knowledge up-to-date to keep up with the job market  
 
 - 🌱 I’m currently learning **At Hack Your Future**
 
