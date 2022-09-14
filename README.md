@@ -19,9 +19,7 @@
   <br><br>
   <br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></p>
-<br><br>
-  <br><br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mones-hamd&show_icons=true&locale=en&layout=compact" alt="mones-hamd" / width=45%></p>
+
   <a href="https://github.com/Mones-Hamd">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mones-hamd&layout=compact)">
   </a>
