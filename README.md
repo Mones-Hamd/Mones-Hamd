@@ -39,7 +39,7 @@
 <a href="https://fb.com/mones-azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mones-azam" height="30" width="40" /></a>
 <a href="https://instagram.com/mones_azzam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mones_azzam" height="30" width="40" /></a>
 </p>
-  <h3> GetHube statues:</h3>
+  <h3 align="left"> GetHube statues:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></p>
 
 
