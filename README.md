@@ -5,13 +5,16 @@
 <hr   />
 <h3 align="start">A passionate Full-Satck developer</h3> 
 
-<hr/>
+
 
 - 🌱 I’m currently learning **Hack Your Future**
 
 - 💬 Ask me about **JavaScript, Python, SQL, NoSql, NodeJs, Express**
 
-- 📫 How to reach me : **mones.m.azzam91@gmail.com**
+- 📫 How to reach me : **mones.m.azzam91@gmail.com**   
+-------
+
+
 <h1 align="start"> I am workin on</h1>
 
 
