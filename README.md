@@ -2,7 +2,9 @@
 <img src="https://github.com/Mones-Hamd/Mones-Hamd/blob/main/web-development.jpeg" height=250px width=100%>
 <br><br>
 <h1 align="start">Hello , I'm Mones Hamd</h1>
-<h3 align="start">A passionate Full-Satck developer</h3>
+<h3 align="start">A passionate Full-Satck developer</h3><br>
+<h3 align="start"> I am workin on</h3>
+-----
 
   <a href="https://github.com/Mones-Hamd/mongoApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mongoApp" width=45%>
@@ -20,9 +22,7 @@
   <br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mones-hamd&show_icons=true&locale=en" alt="mones-hamd"  width=45%/></p>
 
-<a href="https://github.com/Mones-Hamd">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mones-hamd&layout=compact)">
-</a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mones-hamd&label=Profile%20views&color=0e75b6&style=flat" alt="mones-hamd" /> </p>
 
