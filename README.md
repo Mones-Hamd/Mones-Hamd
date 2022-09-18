@@ -27,8 +27,8 @@
     <a href="https://github.com/Mones-Hamd/GraphQL-project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=GraphQL-project" width=45%>
   </a>
-    <a href="https://github.com/Mones-Hamd/mini-prjects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=mini-prjects" width=45%>
+    <a href="https://github.com/Mones-Hamd/Movie-Land-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mones-Hamd&repo=Movie-Land-App" width=45%>
   </a>
 
 <hr/>
